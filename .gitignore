@@ -1,0 +1,7 @@
+# Python scripts used for local editing
+crop_logo.py
+remove_logo_bg.py
+
+# OS generated files
+.DS_Store
+Thumbs.db
