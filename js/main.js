@@ -153,31 +153,40 @@ document.addEventListener('DOMContentLoaded', () => {
       title: "AI고치 - 캐릭터 교감형 어린이 AI 일기장 앱",
       category: "App Development / AI",
       client: "제이케이 자체 서비스",
-      date: "론칭 준비중",
+      date: "출시 완료 (프로모션 진행 중 🔥)",
       tags: ["Flutter", "FastAPI", "OpenAI LLM", "Firebase", "WebSockets"],
       imgSrc: "assets/gochi_greeting.png",
       bgGrad: "linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%)",
-      description: "아이가 오늘 하루의 주요 미션 단어 3개를 사용해 일기를 작성하면, 귀여운 글쓰기 단짝 요정 캐릭터 '고치(Gochi)'가 실시간으로 맞춤법 힌트와 표현력 교정 피드백을 전달하는 게임화(Gamification) 기반 어린이 교육용 어플리케이션입니다. 아이들이 일기를 2단계에 걸쳐 스스로 다듬어 완성하며 올바른 글쓰기 습관과 인지 능력을 형성하도록 설계되었습니다."
+      description: "아이가 오늘 하루의 주요 미션 단어 3개를 사용해 일기를 작성하면, 귀여운 글쓰기 단짝 요정 캐릭터 '고치(Gochi)'가 실시간으로 맞춤법 힌트와 표현력 교정 피드백을 전달하는 게임화(Gamification) 기반 어린이 교육용 어플리케이션입니다. 아이들이 일기를 2단계에 걸쳐 스스로 다듬어 완성하며 올바른 글쓰기 습관과 인지 능력을 형성하도록 설계되었습니다.",
+      downloadUrl: "https://ai-gochi.com",
+      storeLabel: "AI고치 공식 사이트 / 서비스 바로가기",
+      qrData: "https://ai-gochi.com"
     },
     2: {
       title: "AI고치 웹 - QR 연동 PC 글쓰기 플랫폼",
       category: "Web Platform",
       client: "제이케이 자체 서비스",
-      date: "론칭 준비중",
+      date: "출시 완료",
       tags: ["Next.js", "Firebase Auth", "HTML5/CSS3", "QR Login Sync"],
       imgSrc: "assets/gochi_thinking.png",
       bgGrad: "linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%)",
-      description: "스마트폰 모바일 화면에서 일기를 치기 어려운 아동들을 위해 물리적 키보드를 탑재한 데스크톱/노트북 PC에서 간편하게 글을 쓸 수 있게 돕는 웹 플랫폼입니다. 자녀용 스마트폰 앱 카메라로 PC 화면에 생성된 일회성 QR 코드를 간편하게 스캔하면, 비밀번호 입력 없이 3초 이내에 동기화 로그인이 완료되는 혁신적인 사용자 인증 및 작성 동기화 기능을 구현했습니다."
+      description: "스마트폰 모바일 화면에서 일기를 치기 어려운 아동들을 위해 물리적 키보드를 탑재한 데스크톱/노트북 PC에서 간편하게 글을 쓸 수 있게 돕는 웹 플랫폼입니다. 자녀용 스마트폰 앱 카메라로 PC 화면에 생성된 일회성 QR 코드를 간편하게 스캔하면, 비밀번호 입력 없이 3초 이내에 동기화 로그인이 완료되는 혁신적인 사용자 인증 및 작성 동기화 기능을 구현했습니다.",
+      downloadUrl: "https://ai-gochi.com",
+      storeLabel: "AI고치 PC 웹 바로가기",
+      qrData: "https://ai-gochi.com"
     },
     3: {
       title: "AI고치 보호자용 - 자녀 학습 분석 성장 리포트",
       category: "UX/UI Design & Dashboard",
       client: "제이케이 자체 서비스",
-      date: "론칭 준비중",
+      date: "출시 완료 (프로모션 진행 중 🔥)",
       tags: ["Figma", "UI/UX Design", "React Native", "Data Visualization"],
       imgSrc: "assets/gochi_success.png",
       bgGrad: "linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%)",
-      description: "자녀가 일기를 최종 완성할 때마다 자동으로 전송되는 학부모용 AI 분석 대시보드 리포트 서비스입니다. 자녀의 맞춤법 점수 향상 추이, 표현력 스코어, 일기 연속 작성일 수 등을 한눈에 확인하고, 완성된 아이의 귀여운 그림/텍스트 일기를 이미지나 PDF 문서로 보존/인쇄할 수 있는 학부모 전용 연동 및 분석 대시보드 플랫폼입니다."
+      description: "자녀가 일기를 최종 완성할 때마다 자동으로 전송되는 학부모용 AI 분석 대시보드 리포트 서비스입니다. 자녀의 맞춤법 점수 향상 추이, 표현력 스코어, 일기 연속 작성일 수 등을 한눈에 확인하고, 완성된 아이의 귀여운 그림/텍스트 일기를 이미지나 PDF 문서로 보존/인쇄할 수 있는 학부모 전용 연동 및 분석 대시보드 플랫폼입니다.",
+      downloadUrl: "https://ai-gochi.com",
+      storeLabel: "학부모 대시보드 리포트 접속",
+      qrData: "https://ai-gochi.com"
     },
     4: {
       title: "깜빡 - 유통기한 & 기프티콘 스마트 D-Day 리마인더 앱",
@@ -187,7 +196,10 @@ document.addEventListener('DOMContentLoaded', () => {
       tags: ["Kotlin", "Android SDK", "Room Database", "WorkManager", "AlarmManager"],
       imgSrc: "assets/kkambbak_icon.png",
       bgGrad: "linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%)",
-      description: "일상 속 모든 유효기간과 유통기한을 한곳에서 쉽고 깔끔하게 관리하고, 약속된 시간에 확실한 D-Day 푸시 알림을 제공하는 스마트 리마인더 앱입니다. 선물받은 쿠폰, 영화 관람권 등 기프티콘부터 냉장고 속 우유, 통조림 등 식품의 유통기한까지 모든 종류의 기한을 직관적으로 등록하고 정확하게 계산된 D-Day 알림을 지원합니다."
+      description: "일상 속 모든 유효기간과 유통기한을 한곳에서 쉽고 깔끔하게 관리하고, 약속된 시간에 확실한 D-Day 푸시 알림을 제공하는 스마트 리마인더 앱입니다. 선물받은 쿠폰, 영화 관람권 등 기프티콘부터 냉장고 속 우유, 통조림 등 식품의 유통기한까지 모든 종류의 기한을 직관적으로 등록하고 정확하게 계산된 D-Day 알림을 지원합니다.",
+      downloadUrl: "https://play.google.com/store/apps/details?id=com.acoustjk.myapp",
+      storeLabel: "Google Play 스토어 다운로드",
+      qrData: "https://play.google.com/store/apps/details?id=com.acoustjk.myapp"
     }
   };
 
@@ -223,7 +235,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <span class="meta-val">${data.client}</span>
               </div>
               <div class="meta-group">
-                <span class="meta-lbl">완료일</span>
+                <span class="meta-lbl">완료 및 상태</span>
                 <span class="meta-val">${data.date}</span>
               </div>
               <div class="meta-group">
@@ -232,6 +244,24 @@ document.addEventListener('DOMContentLoaded', () => {
                   ${tagsHtml}
                 </div>
               </div>
+            </div>
+          </div>
+          
+          <!-- QR Code & Download Action Box -->
+          <div class="modal-qr-box">
+            <div class="modal-qr-img-wrapper">
+              <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=${encodeURIComponent(data.qrData)}" alt="${data.title} QR 코드">
+            </div>
+            <div class="modal-qr-info">
+              <div class="modal-qr-title">
+                <i class="fa-solid fa-qrcode" style="color: var(--color-primary);"></i> QR 코드로 바로 이동 & 다운로드
+              </div>
+              <div class="modal-qr-desc">
+                스마트폰 카메라로 QR 코드를 스캔하시면 앱 다운로드 및 공식 서비스 주소로 바로 연결됩니다.
+              </div>
+              <a href="${data.downloadUrl}" target="_blank" rel="noopener noreferrer" class="btn-qr-download">
+                ${data.storeLabel} <i class="fa-solid fa-arrow-up-right-from-square"></i>
+              </a>
             </div>
           </div>
         `;
