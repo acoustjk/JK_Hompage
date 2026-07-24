@@ -235,8 +235,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 <span class="meta-val">${data.client}</span>
               </div>
               <div class="meta-group">
-                <span class="meta-lbl">완료 및 상태</span>
-                <span class="meta-val">${data.date}</span>
+                <span class="meta-lbl">서비스 상태</span>
+                <span class="meta-val" style="color: #2563eb; font-weight: 700;">${data.date}</span>
               </div>
               <div class="meta-group">
                 <span class="meta-lbl">사용 기술 스택</span>
