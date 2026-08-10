@@ -200,6 +200,19 @@ document.addEventListener('DOMContentLoaded', () => {
       downloadUrl: "https://play.google.com/store/apps/details?id=com.acoustjk.myapp",
       storeLabel: "Google Play 스토어 다운로드",
       qrData: "https://play.google.com/store/apps/details?id=com.acoustjk.myapp"
+    },
+    5: {
+      title: "모두의 MBTI — 지인 성격 갭 분석 플랫폼",
+      category: "Web & Android Native Service",
+      client: "제이케이 자체 서비스",
+      date: "서비스 운영 중 (Web & Android)",
+      tags: ["React / Next.js", "Android Native", "Dynamic Quiz Engine", "Psychology Analytics", "Keyword Tagging"],
+      imgSrc: "assets/mbti_icon.png",
+      bgGrad: "linear-gradient(135deg, #f3e8ff 0%, #ddd6fe 100%)",
+      description: "내가 아는 나 vs 친구들이 보는 나의 MBTI 인식 차이(Gap)를 10가지 동적 질문과 키워드 태그로 정밀 진단하는 차세대 심리 반응 분석 서비스입니다.",
+      downloadUrl: "https://company-jk.com/mbti/",
+      storeLabel: "🚀 모두의 MBTI 서비스 보러가기",
+      qrData: "https://company-jk.com/mbti/"
     }
   };
 
