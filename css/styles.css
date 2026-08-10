@@ -937,6 +937,19 @@ section {
   border: 1px solid #b7f4c7;
 }
 
+.status-badge.direct-link {
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+  cursor: pointer;
+  z-index: 10;
+  position: relative;
+}
+
+.status-badge.direct-link:hover {
+  transform: translateY(-2px) scale(1.04);
+  box-shadow: 0 4px 12px rgba(124, 58, 237, 0.25);
+  filter: brightness(1.08);
+}
+
 .status-badge.promo {
   background: linear-gradient(135deg, #ffedd5 0%, #fee2e2 100%);
   color: #c2410c;

@@ -222,7 +222,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Open Modal
   portfolioCards.forEach(card => {
-    card.addEventListener('click', () => {
+    card.addEventListener('click', (e) => {
+      // direct-link (직접 이동 링크 뱃지/버튼) 클릭 시 모달 팝업 생략
+      if (e.target.closest('.direct-link')) {
+        return;
+      }
+
       const projId = card.getAttribute('data-project-id');
       const data = projectsData[projId];
 
