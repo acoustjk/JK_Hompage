@@ -213,6 +213,19 @@ document.addEventListener('DOMContentLoaded', () => {
       downloadUrl: "https://company-jk.com/mbti/",
       storeLabel: "🚀 모두의 MBTI 서비스 보러가기",
       qrData: "https://company-jk.com/mbti/"
+    },
+    6: {
+      title: "빵판 시뮬레이터 — 인터랙티브 전자회로 브레드보드 시뮬레이션",
+      category: "Interactive Web Platform / IoT Simulation",
+      client: "제이케이 자체 서비스",
+      date: "서비스 운영 중 (Web Platform)",
+      tags: ["Web Canvas / Audio", "Circuit Logic Engine", "HTML5 / JavaScript", "Interactive UI/UX", "Hardware Simulation"],
+      imgSrc: "assets/breadboard_icon.png",
+      bgGrad: "linear-gradient(135deg, #e0f2fe 0%, #bae6fd 100%)",
+      description: "웹 브라우저 상에서 가상의 브레드보드(빵판)에 저항, LED, 스위치, IC 칩 등 전자 부품을 직접 배선하고 실시간 회로 동작을 시뮬레이션할 수 있는 교육 및 프로토타이핑용 인터랙티브 웹 플랫폼입니다.",
+      downloadUrl: "https://breadboard.company-jk.com",
+      storeLabel: "🔌 빵판 시뮬레이터 보러가기",
+      qrData: "https://breadboard.company-jk.com"
     }
   };
 
