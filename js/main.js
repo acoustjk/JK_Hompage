@@ -215,14 +215,14 @@ document.addEventListener('DOMContentLoaded', () => {
       qrData: "https://company-jk.com/mbti/"
     },
     6: {
-      title: "빵판 시뮬레이터 — 인터랙티브 전자회로 브레드보드 시뮬레이션",
-      category: "Interactive Web Platform / IoT Simulation",
+      title: "빵판 시뮬레이터 — 정보통신 & 전자회로 실시간 브레드보드 시뮬레이션",
+      category: "Circuit Simulation & Signal Processing",
       client: "제이케이 자체 서비스",
       date: "서비스 운영 중 (Web Platform)",
-      tags: ["Web Canvas / Audio", "Circuit Logic Engine", "HTML5 / JavaScript", "Interactive UI/UX", "Hardware Simulation"],
+      tags: ["JavaScript Engine", "Node Voltage Inspector", "Signal Modulation (DtoA / PAM / TDM)", "Web Canvas", "Interactive Circuit Emulation"],
       imgSrc: "assets/breadboard_icon.png",
       bgGrad: "linear-gradient(135deg, #e0f2fe 0%, #bae6fd 100%)",
-      description: "웹 브라우저 상에서 가상의 브레드보드(빵판)에 저항, LED, 스위치, IC 칩 등 전자 부품을 직접 배선하고 실시간 회로 동작을 시뮬레이션할 수 있는 교육 및 프로토타이핑용 인터랙티브 웹 플랫폼입니다.",
+      description: "웹 브라우저 상에서 가상의 빵판(Breadboard)에 회로 부품 및 노드를 배치하고 실시간 전압과 신호를 분석할 수 있는 차세대 인터랙티브 회로 시뮬레이터입니다. DtoA(디지털-아날로그 변환), PAM(펄스 진폭 변조), PNM, TDM(시분할 다중화) 등 정보통신 및 전자공학의 핵심 회로 모듈을 실시간으로 구성하고 전압/파형 노드를 정밀하게 검증할 수 있는 교육 및 실무 프로토타이핑 웹 엔진입니다.",
       downloadUrl: "https://breadboard.company-jk.com",
       storeLabel: "🔌 빵판 시뮬레이터 보러가기",
       qrData: "https://breadboard.company-jk.com"
